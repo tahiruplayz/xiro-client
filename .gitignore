@@ -19,7 +19,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Large files (installers, large media)
+# Large files (use external hosting instead)
 *.msi
 *.exe
 *.dmg
