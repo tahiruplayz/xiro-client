@@ -152,7 +152,7 @@ function App() {
           <a href="#customization" onClick={() => setMenu(false)}>Customization</a>
           <a href="#features" onClick={() => setMenu(false)}>Features</a>
         </nav>
-        <a className="nav-download" href="https://drive.google.com/uc?export=download&id=1pTBD8oIgdUSIW6rUZuT7l0U7osOeFKgz" download>Download</a>
+        <a className="nav-download" href="https://www.dropbox.com/scl/fi/d19utj8zyojxejv429i94/Xiro-Client-Setup.msi?rlkey=skhxr38567afmozfncj08soq5&st=bzu70dvb&dl=1" download>Download</a>
         <button className="menu-btn" onClick={() => setMenu(!menu)} aria-label="Open menu"><span/><span/></button>
       </header>
 
@@ -163,7 +163,7 @@ function App() {
             <h1>Your Minecraft.<br/><em>Your way.</em></h1>
             <p>A cinematic client experience built around performance, PvP and complete customization.</p>
             <div className="actions">
-              <a className="primary" href="https://drive.google.com/uc?export=download&id=1pTBD8oIgdUSIW6rUZuT7l0U7osOeFKgz" download><span>Download Xiro</span><b>↗</b></a>
+              <a className="primary" href="https://www.dropbox.com/scl/fi/d19utj8zyojxejv429i94/Xiro-Client-Setup.msi?rlkey=skhxr38567afmozfncj08soq5&st=bzu70dvb&dl=1" download><span>Download Xiro</span><b>↗</b></a>
               <a className="secondary" href="#cinematic">Explore the experience <span>↓</span></a>
             </div>
           </div>
@@ -241,7 +241,7 @@ function App() {
             <div className="eyebrow"><i/> READY? <span>07</span></div>
             <h2>Enter<br/><strong>Xiro.</strong></h2>
             <p>Your Minecraft. Your way.</p>
-            <a className="primary huge" href="https://drive.google.com/uc?export=download&id=1pTBD8oIgdUSIW6rUZuT7l0U7osOeFKgz" download><span>Download Xiro Client</span><b>↗</b></a>
+            <a className="primary huge" href="https://www.dropbox.com/scl/fi/d19utj8zyojxejv429i94/Xiro-Client-Setup.msi?rlkey=skhxr38567afmozfncj08soq5&st=bzu70dvb&dl=1" download><span>Download Xiro Client</span><b>↗</b></a>
             <small>WINDOWS · INSTALLER</small>
           </div>
         </section>
