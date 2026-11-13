@@ -152,7 +152,7 @@ function App() {
           <a href="#customization" onClick={() => setMenu(false)}>Customization</a>
           <a href="#features" onClick={() => setMenu(false)}>Features</a>
         </nav>
-        <a className="nav-download" href="https://www.dropbox.com/scl/fi/tcg186eoigp8rszxpmp1u/Xiro-Client_1.0.0_x64_en-US.msi?rlkey=7c1smlrsl0qkdt4d1wtq39ajq&st=ezxotp2n&dl=1" download>Download</a>
+        <a className="nav-download" href="https://www.dropbox.com/scl/fi/6pmrggsiriku6dhloc5vt/Xiro-Client_1.0.1_x64_en-US.msi?rlkey=mms0od6ruwxq3q65cb0r15m78&st=us4hbu10&dl=1" download>Download</a>
         <button className="menu-btn" onClick={() => setMenu(!menu)} aria-label="Open menu"><span/><span/></button>
       </header>
 
@@ -163,7 +163,7 @@ function App() {
             <h1>Your Minecraft.<br/><em>Your way.</em></h1>
             <p>A cinematic client experience built around performance, PvP and complete customization.</p>
             <div className="actions">
-              <a className="primary" href="https://www.dropbox.com/scl/fi/tcg186eoigp8rszxpmp1u/Xiro-Client_1.0.0_x64_en-US.msi?rlkey=7c1smlrsl0qkdt4d1wtq39ajq&st=ezxotp2n&dl=1" download><span>Download Xiro</span><b>↗</b></a>
+              <a className="primary" href="https://www.dropbox.com/scl/fi/6pmrggsiriku6dhloc5vt/Xiro-Client_1.0.1_x64_en-US.msi?rlkey=mms0od6ruwxq3q65cb0r15m78&st=us4hbu10&dl=1" download><span>Download Xiro</span><b>↗</b></a>
               <a className="secondary" href="#cinematic">Explore the experience <span>↓</span></a>
             </div>
           </div>
@@ -241,7 +241,7 @@ function App() {
             <div className="eyebrow"><i/> READY? <span>07</span></div>
             <h2>Enter<br/><strong>Xiro.</strong></h2>
             <p>Your Minecraft. Your way.</p>
-            <a className="primary huge" href="https://www.dropbox.com/scl/fi/tcg186eoigp8rszxpmp1u/Xiro-Client_1.0.0_x64_en-US.msi?rlkey=7c1smlrsl0qkdt4d1wtq39ajq&st=ezxotp2n&dl=1" download><span>Download Xiro Client</span><b>↗</b></a>
+            <a className="primary huge" href="https://www.dropbox.com/scl/fi/6pmrggsiriku6dhloc5vt/Xiro-Client_1.0.1_x64_en-US.msi?rlkey=mms0od6ruwxq3q65cb0r15m78&st=us4hbu10&dl=1" download><span>Download Xiro Client</span><b>↗</b></a>
             <small>WINDOWS · INSTALLER</small>
           </div>
         </section>
